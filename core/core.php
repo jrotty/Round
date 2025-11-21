@@ -1,7 +1,7 @@
 <?php
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 /* 继承方法函数 */
-require_once('widget.php');
+require_once('Widget.php');
 /* 过滤内容函数 */
 require_once('parse.php');
 // 评论工具
